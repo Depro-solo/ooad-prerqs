@@ -1,2 +1,1 @@
-# OOAD-PreRQS
-Providing prerequisites for solutions
+read me
